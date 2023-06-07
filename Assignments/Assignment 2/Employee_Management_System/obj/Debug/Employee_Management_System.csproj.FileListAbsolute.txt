@@ -1,0 +1,36 @@
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.frm_Login.resources
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.frm_From_View_Employee_List.resources
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.frm_Add_Employee_Details.resources
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+C:\Users\Hp\source\repos\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+C:\Users\Hp\source\repos\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.exe
+C:\Users\Hp\source\repos\Employee_Management_System\obj\Debug\Employee_Management_System.pdb
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.frm_Login.resources
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.frm_From_View_Employee_List.resources
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.frm_Add_Employee_Details.resources
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.exe
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\obj\Debug\Employee_Management_System.pdb
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.frm_Login.resources
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.frm_From_View_Employee_List.resources
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.frm_Add_Employee_Details.resources
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.exe
+C:\Users\Hp\Desktop\Pranali\Sarika\C#\Assignment 2\Employee_Management_System\obj\Debug\Employee_Management_System.pdb
